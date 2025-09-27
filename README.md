@@ -26,8 +26,4 @@ It covers the full flow from writing Verilog RTL to generating an optimized gate
 
 ---
 
-## 🚀 How to Explore
-1. Open the **Day1-5/** folder for detailed notes and code.  
-2. Follow along with the Verilog examples and Yosys synthesis flows.
 
----
